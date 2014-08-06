@@ -1,37 +1,177 @@
----
-layout: default
-title: Home
----
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>oocn.github.io by oocn</title>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>oocn.github.io</h1>
+        <p>oocn</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+        <p class="view"><a href="https://github.com/oocn">View My GitHub Profile</a></p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+      </header>
+      <section>
+        <h1>
+<a name="poole" class="anchor" href="#poole"><span class="octicon octicon-link"></span></a>Poole</h1>
+
+<p><em>The Strange Case of Dr. Jekyll and Mr. Hyde</em> tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.</p>
+
+<hr><p>Poole is the butler for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator. It's designed and developed by <a href="https://twitter.com/mdo">@mdo</a> to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.</p>
+
+<p><img src="https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png" alt="Poole"></p>
+
+<p>See Poole in action with <a href="http://demo.getpoole.com">the demo site</a>.</p>
+
+<p>There are currently two official themes built on Poole:</p>
+
+<ul>
+<li><a href="http://hyde.getpoole.com">Hyde</a></li>
+<li><a href="http://lanyon.getpoole.com">Lanyon</a></li>
+</ul><p>Individual theme feedback and bug reports should be submitted to the theme's individual repository.</p>
+
+<h2>
+<a name="contents" class="anchor" href="#contents"><span class="octicon octicon-link"></span></a>Contents</h2>
+
+<ul>
+<li><a href="#usage">Usage</a></li>
+<li>
+<a href="#options">Options</a>
+
+<ul>
+<li><a href="#rems-font-size-and-scaling">Rems, <code>font-size</code>, and scaling</a></li>
+</ul>
+</li>
+<li><a href="#development">Development</a></li>
+<li><a href="#author">Author</a></li>
+<li><a href="#license">License</a></li>
+</ul><h2>
+<a name="usage" class="anchor" href="#usage"><span class="octicon octicon-link"></span></a>Usage</h2>
+
+<h3>
+<a name="1-install-jekyll" class="anchor" href="#1-install-jekyll"><span class="octicon octicon-link"></span></a>1. Install Jekyll</h3>
+
+<p>Poole is built for use with Jekyll, so naturally you'll need to install that. On Macs, it's rather straightforward:</p>
+
+<div class="highlight highlight-bash"><pre><span class="nv">$ </span>gem install jekyll
+</pre></div>
+
+<p><strong>Windows users:</strong> Windows users have a bit more work to do, but luckily <a href="https://github.com/juthilo">@juthilo</a> has your back with his <a href="https://github.com/juthilo/run-jekyll-on-windows">Run Jekyll on Windows</a> guide.</p>
+
+<p>You may also need to install Pygments, the Python syntax highlighter for code snippets that plays nicely with Jekyll. Read more about this <a href="http://jekyllrb.com/docs/templates/#code_snippet_highlighting">in the Jekyll docs</a>.</p>
+
+<h3>
+<a name="2a-quick-start" class="anchor" href="#2a-quick-start"><span class="octicon octicon-link"></span></a>2a. Quick start</h3>
+
+<p>To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.</p>
+
+<h3>
+<a name="2b-roll-your-own-jekyll-site" class="anchor" href="#2b-roll-your-own-jekyll-site"><span class="octicon octicon-link"></span></a>2b. Roll your own Jekyll site</h3>
+
+<p>Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely <code>_layouts/</code>, <code>*.html</code> files, <code>atom.xml</code> for RSS, and <code>public/</code> for CSS, JS, etc.).</p>
+
+<h3>
+<a name="3-running-locally" class="anchor" href="#3-running-locally"><span class="octicon octicon-link"></span></a>3. Running locally</h3>
+
+<p>To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from <code>/Poole</code> (or whatever your Jekyll site's root directory is named):</p>
+
+<div class="highlight highlight-bash"><pre><span class="nv">$ </span>jekyll serve
+</pre></div>
+
+<p>Open <a href="http://localhost:4000">http://localhost:4000</a> in your browser, and voilà.</p>
+
+<h3>
+<a name="4-serving-it-up" class="anchor" href="#4-serving-it-up"><span class="octicon octicon-link"></span></a>4. Serving it up</h3>
+
+<p>If you host your code on GitHub, you can use <a href="https://pages.github.com">GitHub Pages</a> to host your project.</p>
+
+<ol>
+<li>Fork this repo and switch to the <code>gh-pages</code> branch.
+2a. If you're <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages">using a custom domain name</a>, modify the <code>CNAME</code> file to point to your new domain.
+2b. If you're not using a custom domain name, <strong>modify the <code>baseurl</code> in <code>_config.yml</code></strong> to point to your GitHub Pages URL. Example: for a repo at <code>github.com/username/poole</code>, use <code>http://username.github.io/poole/</code>. <strong>Be sure to include the trailing slash.</strong>
+</li>
+<li>Done! Head to your GitHub Pages URL or custom domain.</li>
+</ol><p>No matter your production or hosting setup, be sure to verify the <code>baseurl</code> option file and <code>CNAME</code> settings. Not applying this correctly can mean broken styles on your site.</p>
+
+<h2>
+<a name="options" class="anchor" href="#options"><span class="octicon octicon-link"></span></a>Options</h2>
+
+<p>Poole includes some customizable options, typically applied via classes on the <code>&lt;body&gt;</code> element.</p>
+
+<h3>
+<a name="rems-font-size-and-scaling" class="anchor" href="#rems-font-size-and-scaling"><span class="octicon octicon-link"></span></a>Rems, <code>font-size</code>, and scaling</h3>
+
+<p>Poole is built almost entirely with <code>rem</code>s (instead of pixels). <code>rem</code>s are like <code>em</code>s, but instead of building on the immediate parent's <code>font-size</code>, they build on the root element, <code>&lt;html&gt;</code>.</p>
+
+<p>By default, we use the following:</p>
+
+<div class="highlight highlight-css"><pre><span class="nt">html</span> <span class="p">{</span>
+  <span class="k">font-size</span><span class="o">:</span> <span class="m">16px</span><span class="p">;</span>
+  <span class="k">line-height</span><span class="o">:</span> <span class="m">1</span><span class="o">.</span><span class="m">5</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="k">@media</span> <span class="o">(</span><span class="nt">min-width</span><span class="o">:</span> <span class="nt">38em</span><span class="o">)</span> <span class="p">{</span>
+  <span class="nt">html</span> <span class="p">{</span>
+    <span class="k">font-size</span><span class="o">:</span> <span class="m">20px</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+</pre></div>
+
+<p>To easily scale your site's typography and components, simply customize the base <code>font-size</code>s here.</p>
+
+<h2>
+<a name="development" class="anchor" href="#development"><span class="octicon octicon-link"></span></a>Development</h2>
+
+<p>Poole has two branches, but only one is used for active development.</p>
+
+<ul>
+<li>
+<code>master</code> for development.  <strong>All pull requests should be to submitted against <code>master</code>.</strong>
+</li>
+<li>
+<code>gh-pages</code> for our hosted site, which includes our analytics tracking code. <strong>Please avoid using this branch.</strong>
+</li>
+</ul><h2>
+<a name="author" class="anchor" href="#author"><span class="octicon octicon-link"></span></a>Author</h2>
+
+<p><strong>Mark Otto</strong></p>
+
+<ul>
+<li><a href="https://github.com/mdo">https://github.com/mdo</a></li>
+<li><a href="https://twitter.com/mdo">https://twitter.com/mdo</a></li>
+</ul><h2>
+<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
+
+<p>Open sourced under the <a href="LICENSE.md">MIT license</a>.</p>
+
+<p>&lt;3</p>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-53584910-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
