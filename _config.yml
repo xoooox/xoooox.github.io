@@ -7,18 +7,18 @@ permalink:        pretty
 
 
 # Settings
-destination:      ./_gh_pages
+destination:      ./
 exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
 future:           false
-name:             Bootstrap Expo
-url:              http://expo.getbootstrap.com
+name:             OOCN
+url:              http://github.oocn.eu
 
 
 # Links
-expo_repo:        https://github.com/twbs/bootstrap-expo/
-expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+expo_repo:        https://github.oocn.eu
+expo_new_issue:   https://github.oocn.eu
 
-docs:             http://getbootstrap.com
-blog:             http://blog.getbootstrap.com
+docs:             http://github.oocn.eu
+blog:             http://github.oocn.eu
