@@ -5,4 +5,4 @@ slug: fliplingo
 source: http://www.fliplingo.com
 ---
 
-<img src="/screenshots/fliplingo.jpg">
+<img src="/screenshots/rise.jpg">
