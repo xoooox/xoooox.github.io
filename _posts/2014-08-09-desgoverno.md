@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desgoverno"
-slug: Desgoverno
+slug: desgoverno
 source: http://oocn.eu
 ---
 
