@@ -1,0 +1,35 @@
+- name: React Bootstrap
+  url: http://react-bootstrap.github.io/
+  desc: Bootstrap 3 components rebuilt with React.
+
+- name: UI Bootstrap
+  url: http://angular-ui.github.io/bootstrap/
+  desc: Bootstrap components rewritten in AngularJS by the AngularUI team.
+
+- name: Dojo Bootstrap
+  url: http://dojobootstrap.com
+  desc: Bootstrap components rewritten as custom Dojo modules.
+
+- name: Start Bootstrap
+  url: http://startbootstrap.com/
+  desc: Free and open source templates and themes for Bootstrap.
+
+- name: Bootply
+  url: http://bootply.com/new
+  desc: Playground for building with Bootstrap, featuring examples, code sharing, and more.
+
+- name: Bootsnipp
+  url: http://bootsnipp.com
+  desc: Design elements, playground, and code snippets for Bootstrap.
+
+- name: Devools
+  url: http://www.devools.com
+  desc: Code snippets and tools to speed up your development time.
+
+- name: Pingendo
+  url: http://www.pingendo.com/
+  desc: Desktop application for prototyping responsive web pages with Bootstrap.
+
+- name: GwtBootstrap
+  url: https://github.com/gwtbootstrap3/gwtbootstrap3
+  desc: GWT wrapper for Bootstrap containing design templates, styles, and beautiful widgets.

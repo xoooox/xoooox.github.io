@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+The Bootstrap Expo is a showcase of beautiful and inspirational sites using [Bootstrap](http://getbootstrap.com), the popular open source front-end framework. It's designed, built, and maintained by [@mdo](https://twitter.com/mdo), co-creator of Bootstrap, to show what's possible when using Bootstrap.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+## Submissions
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We do not accept all submissions. We only select high quality, beautiful, and comprehensive examples of building with Bootstrap. Sites appearing too similar to Bootstrap's documentation or default styles will not be accepted. Submissions with inappropriate content will also not be accepted.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## How to submit
 
-## Setup
+To submit a site suggestion, [open an issue](https://github.com/twbs/bootstrap-expo/issues/new) or create a pull request. (Any new pull request should conform to the [Code Guide](https://github.com/mdo/code-guide)).
 
-Some fun facts about the setup of this project include:
+## About the site
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+It's built with [Jekyll](http://jekyllrb.com), developed on [GitHub](https://github.com/twbs/bootstrap-expo), and is hosted on [GitHub Pages](https://pages.github.com).
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<3
