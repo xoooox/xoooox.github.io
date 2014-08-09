@@ -2,6 +2,8 @@
 layout: post
 title: "How to Create Tables and Insert Data into SQL Databases"
 comments: true
+slug: fliplingo
+source: http://www.fliplingo.com
 permalink: create-tables-sql
 ---
 
