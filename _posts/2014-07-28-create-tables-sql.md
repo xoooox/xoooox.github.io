@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Create Tables and Insert Data into SQL Databases"
-comments: true
+slug: morerist
 source: http://www.fliplingo.com
 slug: create-tables-sql
 ---
