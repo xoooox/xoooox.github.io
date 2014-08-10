@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
 {% if node.title != null %}
