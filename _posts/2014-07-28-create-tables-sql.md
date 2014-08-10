@@ -3,7 +3,7 @@ layout: post
 title: "How to Create Tables and Insert Data into SQL Databases"
 comments: true
 source: http://www.fliplingo.com
-permalink: create-tables-sql
+slug: create-tables-sql
 ---
 
 *This is the third post in a [series of posts]({% post_url 2014-04-17-data-science-sql %})
