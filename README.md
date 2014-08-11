@@ -1,7 +1,7 @@
 # [oocn.eu](http://oocn.eu)
 
 
-Browse the site at [http://oocn.eu](http://oocn.eu)!
+Browse the site at [http://oocn.eu](http://oocn.eu).
 
 
 
