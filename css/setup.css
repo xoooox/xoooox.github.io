@@ -20,12 +20,8 @@ h1.technique-three {
 }
 
 .block_link {
-    position:absolute;
-    bottom:0;
-    height:175px;
-    left:0px;
-    width:100%;
-    z-index:1;
+    position:relative;
+    z-index:2;
     background-image:url(assets/Blank.gif);
     text-indent:-9999px;
 }
