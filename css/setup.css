@@ -18,3 +18,14 @@ h1.technique-three {
   text-indent: -9999px;
 */
 }
+
+.block_link {
+    position:absolute;
+    bottom:0;
+    height:175px;
+    left:0px;
+    width:100%;
+    z-index:1;
+    background-image:url(assets/Blank.gif);
+    text-indent:-9999px;
+}
