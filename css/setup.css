@@ -23,5 +23,8 @@ h1.technique-three {
     position:relative;
     z-index:2;
     background-image:url(/assets/Blank.gif);
-
+    bottom:0;
+    height:175px;
+    left:0px;
+    width:100%;
 }
