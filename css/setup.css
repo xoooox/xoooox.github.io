@@ -22,6 +22,6 @@ h1.technique-three {
 .block_link {
     position:relative;
     z-index:2;
-    background-image:url(assets/Blank.gif);
+    background-image:url(/assets/Blank.gif);
     text-indent:-9999px;
 }
