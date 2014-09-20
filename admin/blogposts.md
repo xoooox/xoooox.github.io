@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "blogposts"
+title: blogposts
 ---
 
 <ul class="list">
