@@ -1,5 +1,5 @@
 ---
-layout: model
+layout: post
 title: "CSS Awards"
 slug: css-awards
 source: http://www.cssawards.net
