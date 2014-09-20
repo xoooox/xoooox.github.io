@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: model
 title: "WildPhotos"
 slug: wildphotos
 source: http://wildphotos.org.uk/
