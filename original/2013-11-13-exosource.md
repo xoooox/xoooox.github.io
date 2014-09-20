@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: model
 title: "Exosource"
 slug: exosource
 source: http://www.exosource.com/en/
