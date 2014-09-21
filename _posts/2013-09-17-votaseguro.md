@@ -1,8 +1,7 @@
 ---
 layout: posts
-title: "JSHint"
-slug: jshint
-source: http://jshint.com
+title: Vota Seguro
+slug: seguro
 ---
 
 <img src="/screenshots/jshint.jpg">
