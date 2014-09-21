@@ -294,7 +294,7 @@ Manifesto a minha intenção, para ser o teu maior opositor aqui nas terras do N
 
 
 
-Vou esperar que caias! Vou lá estar para ver o teu tombo na primeira fila, vai ser quase tão bom com ver o por-da-lua, acompanhado pela Boneca!
+Vou esperar que caias! Vou lá estar para ver o teu tombo na primeira fila, vai ser quase tão bonito com ver o por-da-lua, acompanhado pela Boneca!
 
 
 
