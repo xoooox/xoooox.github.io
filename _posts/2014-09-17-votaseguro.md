@@ -66,7 +66,7 @@ Vote Seguro!
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
 
 
 
@@ -108,13 +108,13 @@ Não comunica bem;
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
@@ -144,13 +144,13 @@ Que tem muitos défices, um deles é querer agravar o nosso défice público;
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
@@ -180,13 +180,13 @@ Seguro pode pelo menos ter um consolo, foi Imperador, pois só estes são traíd
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
@@ -216,13 +216,13 @@ Comer tremoços, beber cerveja preta, fumar passivamente, e esperar que caia do 
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
@@ -252,13 +252,13 @@ Não é de confiança, tem sangue de imperador romano, vai aliado para o poder c
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
@@ -282,13 +282,13 @@ Manifesto a minha intenção, para ser o teu maior opositor aqui nas terras do N
 
 
 
-Vote Seguro!
 
 
 
 
 
-Socialist election for candidate^2 to Portuguese Prime Minister election in 2015
+
+
 
 
 
