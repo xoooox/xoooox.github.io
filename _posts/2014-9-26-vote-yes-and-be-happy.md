@@ -55,8 +55,6 @@ Em resumo o resultado não é final, continua…
 *Texto escrito sem acordo ortográfico!
 
 ``` 
-
 rui.felizes@oocn.eu {MMXIV}
-
 ``` 
 
