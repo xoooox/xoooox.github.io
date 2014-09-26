@@ -9,7 +9,7 @@ permalink:        pretty
 # Settings
 destination:      ./
 exclude:          ["README.md"]
-paginate:         10
+paginate:         3
 encoding:         UTF-8
 future:           false
 name:             OOCN
