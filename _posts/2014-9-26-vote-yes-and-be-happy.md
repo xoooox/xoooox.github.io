@@ -22,9 +22,11 @@ title: Vote Yes
 
 ### EU-28 
 
-## opinião 
+# opinião 
 
 > Como podem os Escoceses utilizar o resultado do referendo?
+
+``` 
 
 Vence o “sim” com > 5%!
 
@@ -35,6 +37,8 @@ Restantes resultados!
 A Europa não vai conseguir transformar esta tendência de mudança social A matriz predominantemente financeira das atuais gerações, impede que sejam relevadas outras dimensões da vida no seio da maioria dos cidadãos Europeus!
 
 A infestação no espaço europeu de tecnocratas e “burros de carga” que afundaram a cultura europeia  nos mares e rios da Europa, não perceberam que o único indicador que interessa promover é o desenvolvimento cultural das sociedades. 
+
+``` 
 
 Restantes resultados (cont.)
 
