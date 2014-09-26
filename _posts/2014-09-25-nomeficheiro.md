@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vote Yes
+title: Yes
 ---
 <!---->
 <hr>
