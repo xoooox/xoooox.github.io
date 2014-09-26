@@ -6,16 +6,14 @@ title: Vote Yes
 <hr>
 <iframe src="https://docs.google.com/presentation/d/1DAAGXc661uWjv0g7cEa-y25y-ZV2AASB1RtvpzruIJs/embed?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <hr>
-
-## Grande Farra
-> Vote yes!
- Scottish independence referendum 2014
- Should Scotland be an independent country?
- Enjoy freedom madness
- In in few days all will be equal!
- You scottish citizens are part of europe!
- your future is in europe!
- EU-28 
+# Vote yes!
+### Scottish independence referendum 2014
+### Should Scotland be an independent country?
+### Enjoy freedom madness
+### In in few days all will be equal!
+### You scottish citizens are part of europe!
+### your future is in europe!
+### EU-28 
 ## opinião 
  Como podem os Escoceses utilizar o resultado do referendo?
  Vence o “sim” com > 5%!
