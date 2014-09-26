@@ -13,8 +13,9 @@ title: Vote Yes
 ### Should Scotland be an independent country?
 
 ```
-### Enjoy freedom madness
+Enjoy freedom madness
 ```
+
 ### In in few days all will be equal!
 
 ### You scottish citizens are part of europe!
