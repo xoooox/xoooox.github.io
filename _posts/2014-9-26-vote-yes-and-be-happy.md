@@ -24,10 +24,9 @@ title: Vote Yes
 
 # opinião 
 
-> Como podem os Escoceses utilizar o resultado do referendo?
+Como podem os Escoceses utilizar o resultado do referendo?
 
 ```javascript 
-
 Vence o “sim” com > 5%!
 
 Existe um ponto de partida para continuar afirmar a independência. Com o decorrer dos anos mais cidadãos vão aderir (efetivamente) à nacionalidade escocesa. A vida continua, mas vai ter que acomodar a diferença são os ingleses!
@@ -39,7 +38,6 @@ A Europa não vai conseguir transformar esta tendência de mudança social A mat
 A infestação no espaço europeu de tecnocratas e “burros de carga” que afundaram a cultura europeia  nos mares e rios da Europa, não perceberam que o único indicador que interessa promover é o desenvolvimento cultural das sociedades. 
 
 ``` 
-
 Restantes resultados (cont.)
 
 Os restantes indicadores económicos são importantes, como referências, não como  objetivos políticos! Então pergunto, qual é o primeiro objectivo da Europa? 
