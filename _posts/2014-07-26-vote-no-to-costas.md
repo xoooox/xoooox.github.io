@@ -7,7 +7,6 @@ title: Vote No To Costas
 
 ### Os contorciocionistas e as suas contorções seriam doados à coleção berardo!
 
-
-
+Portugal e os seus Portugueses podem ter o melhor da sua nacão ao leme deste País.
 
 
