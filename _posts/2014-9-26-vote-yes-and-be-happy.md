@@ -26,7 +26,7 @@ title: Vote Yes
 
 > Como podem os Escoceses utilizar o resultado do referendo?
 
-``` 
+{% highlight %} 
 
 Vence o “sim” com > 5%!
 
@@ -38,7 +38,7 @@ A Europa não vai conseguir transformar esta tendência de mudança social A mat
 
 A infestação no espaço europeu de tecnocratas e “burros de carga” que afundaram a cultura europeia  nos mares e rios da Europa, não perceberam que o único indicador que interessa promover é o desenvolvimento cultural das sociedades. 
 
-``` 
+{% endhighlight %} 
 
 Restantes resultados (cont.)
 
