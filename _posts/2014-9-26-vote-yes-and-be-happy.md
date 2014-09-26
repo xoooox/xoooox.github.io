@@ -23,10 +23,6 @@ title: Vote Yes
 
 ### EU-28 
 
-
-
-
-
 # Opinião 
 
 Como podem os Escoceses utilizar o resultado do referendo?
@@ -34,9 +30,10 @@ Como podem os Escoceses utilizar o resultado do referendo?
 > Vence o “sim” com > 5%!
 
 ```
-Existe um ponto de partida para continuar afirmar a independência. Com o decorrer dos anos mais cidadãos vão aderir (efetivamente) à nacionalidade escocesa. A vida continua, mas vai ter que acomodar a diferença são os ingleses!
+Existe um ponto de partida para continuar afirmar a independência. 
+Com o decorrer dos anos mais cidadãos vão aderir (efetivamente) à nacionalidade escocesa. 
+A vida continua, mas vai ter que acomodar a diferença são os ingleses!
 ```
-
 
 > Restantes resultados!
 
