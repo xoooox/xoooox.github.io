@@ -4,7 +4,7 @@ title: Vote Yes
 ---
 <!--2014-9-26-vote-yes-and-be-happy.md-->
 <hr>
-<iframe src="https://docs.google.com/presentation/d/1DAAGXc661uWjv0g7cEa-y25y-ZV2AASB1RtvpzruIJs/embed?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src=""https://docs.google.com/presentation/d/1DAAGXc661uWjv0g7cEa-y25y-ZV2AASB1RtvpzruIJs/embed?start=true&loop=true&delayms=5000"" frameborder=""0"" width=""640"" height=""509"" allowfullscreen=""true"" mozallowfullscreen=""true"" webkitallowfullscreen=""true""></iframe>
 <hr>
 # Vote yes!
 
@@ -54,6 +54,6 @@ Em resumo o resultado não é final, continua…
 
 *Texto escrito sem acordo ortográfico!
 
-``` 
+```
 rui.felizes@oocn.eu {MMXIV}
-``` 
+```
