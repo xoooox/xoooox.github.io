@@ -40,7 +40,10 @@ A Europa não vai conseguir transformar esta tendência de mudança social A mat
 
 A infestação no espaço europeu de tecnocratas e “burros de carga” que afundaram a cultura europeia  nos mares e rios da Europa, não perceberam que o único indicador que interessa promover é o desenvolvimento cultural das sociedades. 
 
+```
 Os restantes indicadores económicos são importantes, como referências, não como  objetivos políticos! Então pergunto, qual é o primeiro objectivo da Europa? 
+```
+
 
 Manter o atual desenho do mapa político Europeu, controlando a pressão realizada pela historia dos povos! 
 
@@ -57,3 +60,4 @@ Em resumo o resultado não é final, continua…
 ```
 rui.felizes@oocn.eu {MMXIV}
 ```
+
