@@ -52,7 +52,7 @@ Em resumo, como nada mudará na Europa em termos políticos, só nos resta que, 
 
 Em resumo o resultado não é final, continua…
 
-> *Texto escrito sem acordo ortográfico!
+*Texto escrito sem acordo ortográfico!
 
-> rui.felizes@oocn.eu {MMXIV}
+rui.felizes@oocn.eu {MMXIV}
 
