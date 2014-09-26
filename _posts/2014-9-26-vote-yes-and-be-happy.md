@@ -47,6 +47,7 @@ Manter o atual desenho do mapa político Europeu, controlando a pressão realiza
 ```
 Como se faz? 
 ```
+
 Sei o que não deve fazer! Pelo que o resto que sobrar não deve estar errado!
 
 Em resumo, como nada mudará na Europa em termos políticos, só nos resta que, os senhores, quando precisarem, semeiem paz nas terras europeias, e mais cedo do que mais tarde, coloquem estas novas (ou velhas) tendencias sociais nos tratados europeus.
@@ -55,5 +56,6 @@ Em resumo o resultado não é final, continua…
 
 *Texto escrito sem acordo ortográfico!
 
+```
 rui.felizes@oocn.eu {MMXIV}
-
+```
