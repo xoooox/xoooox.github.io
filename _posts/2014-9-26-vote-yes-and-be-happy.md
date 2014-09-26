@@ -4,7 +4,7 @@ title: Vote Yes
 ---
 <!--2014-9-26-vote-yes-and-be-happy.md-->
 <hr>
-<iframe src=""https://docs.google.com/presentation/d/1DAAGXc661uWjv0g7cEa-y25y-ZV2AASB1RtvpzruIJs/embed?start=true&loop=true&delayms=5000"" frameborder=""0"" width=""640"" height=""509"" allowfullscreen=""true"" mozallowfullscreen=""true"" webkitallowfullscreen=""true""></iframe>
+<iframe src="https://docs.google.com/presentation/d/1DAAGXc661uWjv0g7cEa-y25y-ZV2AASB1RtvpzruIJs/embed?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <hr>
 # Vote yes!
 
@@ -40,15 +40,13 @@ A Europa não vai conseguir transformar esta tendência de mudança social A mat
 
 A infestação no espaço europeu de tecnocratas e “burros de carga” que afundaram a cultura europeia  nos mares e rios da Europa, não perceberam que o único indicador que interessa promover é o desenvolvimento cultural das sociedades. 
 
-```
 Os restantes indicadores económicos são importantes, como referências, não como  objetivos políticos! Então pergunto, qual é o primeiro objectivo da Europa? 
-```
-
 
 Manter o atual desenho do mapa político Europeu, controlando a pressão realizada pela historia dos povos! 
 
-> Como se faz? 
-
+```
+Como se faz? 
+```
 Sei o que não deve fazer! Pelo que o resto que sobrar não deve estar errado!
 
 Em resumo, como nada mudará na Europa em termos políticos, só nos resta que, os senhores, quando precisarem, semeiem paz nas terras europeias, e mais cedo do que mais tarde, coloquem estas novas (ou velhas) tendencias sociais nos tratados europeus.
@@ -57,7 +55,5 @@ Em resumo o resultado não é final, continua…
 
 *Texto escrito sem acordo ortográfico!
 
-```
 rui.felizes@oocn.eu {MMXIV}
-```
 
