@@ -43,7 +43,9 @@ A infestação no espaço europeu de tecnocratas e “burros de carga” que afu
 
 Os restantes indicadores económicos são importantes, como referências, não como  objetivos políticos! Então pergunto, qual é o primeiro objectivo da Europa? 
 
+```
 Manter o atual desenho do mapa político Europeu, controlando a pressão realizada pela historia dos povos! 
+```
 
 > Como se faz? 
 
