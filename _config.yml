@@ -23,3 +23,6 @@ expo_new_issue:   https://github.oocn.eu
 
 docs:             http://github.oocn.eu
 blog:             http://github.oocn.eu
+
+gems:
+  - jekyll-redirect-from
