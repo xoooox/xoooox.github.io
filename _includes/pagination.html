@@ -14,7 +14,8 @@
     <span class="paginate previous">Next &raquo;</span>
   {% endif %}
 </div>
-<div class="pagination">
+<!--<div class="pagination">-->
+<nav id="pagination">
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <em>{{ page }}</em>
@@ -24,5 +25,6 @@
       <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }} " class="paginate newer">{{ page }}</a>
     {% endif %}
   {% endfor %}
-</div>
+</nav>
+<!--</div>-->
 {% endif %}
