@@ -43,7 +43,7 @@ Observatório Oceanográfico do Canhão da Nazaré
 {% if node.title != null %}
 {% if node.layout == "redirect" %}
 <li class="nav-item">
-<a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+<a target="_blank" class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
 </li>
 {% endif %}
 {% endif %}
