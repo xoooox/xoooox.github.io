@@ -25,6 +25,7 @@ Observatório Oceanográfico do Canhão da Nazaré
 <hr class="masthead-hr">
 <ul class="masthead-nav">
 <!--<li class="nav-item"><a class="nav-link" href="/about#suggestions" target="">Suggest a site</a></li>-->
+<!--
 <li class="nav-item"><a class="nav-link" href="http://musica.oocn.eu" target="_blank">Música</a></li>
 <li class="nav-item"><a class="nav-link" href="http://web.oocn.eu" target="_blank">WEB</a></li>
 <li class="nav-item"><a class="nav-link" href="http://blog.oocn.eu" target="_blank">Blog</a></li>
@@ -36,6 +37,17 @@ Observatório Oceanográfico do Canhão da Nazaré
 <li class="nav-item"><a class="nav-link" href="http://mmxiv.oocn.eu" target="_blank">mmxiv</a></li>
 <li class="nav-item"><a class="nav-link" href="http://mmxiii.oocn.eu" target="_blank">mmxiii</a></li>
 <li class="nav-item"><a class="nav-link" href="/feed.xml" target="_blank">RSS</a></li>
+-->>
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+{% if node.title != null %}
+{% if node.layout == "redirect" %}
+<li class="nav-item">
+<a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+</li>
+{% endif %}
+{% endif %}
+{% endfor %}
 </ul>
 <hr class="masthead-hr">
 <!--{% include carbonads.html %}-->
