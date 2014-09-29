@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Contorcionistas foram esmagadores!
+comments: False
 ---
 
 <hr>
