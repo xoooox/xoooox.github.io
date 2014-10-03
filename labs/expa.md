@@ -42,7 +42,7 @@ Anywhere!
 
 ##I'm married, is this a problem?
 
-Are you trying to say that you want to split the laid with your husband! Yes, you can, but note that,  get laid in Porto, is by now, and I hope forever, limited to  womens!
+> Are you trying to say that you want to split the laid with your husband! Yes, you can, but note that,  get laid in Porto, is by now, and I hope forever, limited to  womens!
 
 ##So what do I need to do, to get laid in Porto?
 
