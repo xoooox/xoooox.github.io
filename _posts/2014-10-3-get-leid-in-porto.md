@@ -1,5 +1,5 @@
 ---
-layout: postt
+layout: default
 title: Get lei'd in Porto
 published: true
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
