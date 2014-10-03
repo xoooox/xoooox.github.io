@@ -1,36 +1,36 @@
 ---
 layout: post
 title: Get lei'd in Porto
-published: false
+published: FALSE
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
 ---
 <!--2014-10-3-get-leid-in-porto.md-->
 <hr>
-
+<iframe src="https://docs.google.com/a/oocn.eu/presentation/d/1OZD4GgulpA9xp5dLsz775HxkX9Be69OtoJAU0pORWa8/embed?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <hr>
 # Get laid in Porto
 
 ##How?
 
-Through me!
+> Through me!
 
 ##Where?
 
 ```
-Anywhere!
+> Anywhere!
 ```
 
 But there are places in this where you can't imagine there geting laid. 
 
 ##When?
 
-After 00:00
+> After 00:00
 
 ##Do I need money, to get laid?
 
-No, you only need luck!
+> No, you only need luck!
 
-##I have a friend, and we would like to get laid toghether?
+##I have a friend, and we would like to get laid in Porto toghether?
 
 Geting laid in Porto, it is not a Party, where you brings friends!
 
@@ -38,7 +38,7 @@ Geting laid in Porto, it is not a Party, where you brings friends!
 
 ##Are you a professional? Do you guarantee quality? I'm used to long experiences! Can you satisfy these requirements?
 
-> Since that all that was mentioned is relative, I now that I'm qualified to guarantee this requirements!
+> Since that all that was mentioned, is relative, I know that I'm qualified to guarantee this requirements!
 
 ##I'm married, is this a problem?
 
