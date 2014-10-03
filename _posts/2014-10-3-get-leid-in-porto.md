@@ -74,10 +74,6 @@ Like blue;
 
 You can't be the one that I'm married to;
 
-
-
-
-
 ```
 rui.felizes@oocn.eu {MMXIV}
 ```
