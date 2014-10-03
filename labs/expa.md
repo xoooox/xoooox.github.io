@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post
 title: expa
 published: true
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
+slug: modeling-far-bit-longer
 ---
 <!--2014-10-3-get-leid-in-porto.md-->
 <hr>
@@ -20,7 +21,7 @@ description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O se
 Anywhere!
 ```
 
-But there are places in this where you can't imagine there geting laid. 
+> But there are moments in Porto where you can't imagine geting laid there. 
 
 ##When?
 
@@ -32,7 +33,7 @@ But there are places in this where you can't imagine there geting laid.
 
 ##I have a friend, and we would like to get laid in Porto toghether?
 
-Geting laid in Porto, it is not a Party, where you brings friends!
+> Geting laid in Porto, it is not a Party, where you brings friends!
 
 > But you can split the laid, do not expect to achive two laids!
 
@@ -48,7 +49,7 @@ Are you trying to say that you want to split the laid with your husband! Yes, yo
 
 > Subscrive the message service!
 
-> 
+> I will send to you the confirmation of your partnership.
 
 > And wait for an invitation, if you can attend to it, you will get laid in Porto!
 
@@ -72,12 +73,16 @@ A few:
 
 * You can't be the one that I'm married to;
 
+##I'm not in Porto, but in a near future, I plan to be! Can I schedule an intention for a laid?
 
+>No!
 
+>Get laid in Porto is life, you can't plan it.
+
+>You can try! But I can't assure that you will get laid in Porto! You can schedule with me a dinner, a cinema, theatre, conference, walk, a site seeing, etc. But this dosen't asure that you will get laid in Porto.
 
 
 ```
 rui.felizes@oocn.eu {MMXIV}
 ```
-
 
