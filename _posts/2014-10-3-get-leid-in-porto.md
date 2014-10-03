@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Get lei'd in Porto
-published: no
+published: FALSE
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
 ---
 <!--2014-10-3-get-leid-in-porto.md-->
 <hr>
-
+<!--<iframe src="https://docs.google.com/a/oocn.eu/presentation/d/1OZD4GgulpA9xp5dLsz775HxkX9Be69OtoJAU0pORWa8/embed?start=true&loop=true&delayms=5000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>-->
 <hr>
+# Get laid in Porto
 
 ##How?
 
@@ -43,17 +44,15 @@ Geting laid in Porto, it is not a Party, where you brings friends!
 
 Are you trying to say that you want to split the laid with your husband! Yes, you can, but note that,  get laid in Porto, is by now, and I hope forever, limited to  womens!
 
-So what do I need to do, to get laid in Porto?
+##So what do I need to do, to get laid in Porto?
 
-Subscrive the message service!
+> Subscrive the message service!
 
-```
-And wait for an invitation, if you you can attend to it, you will get laid in Porto
-```
+> 
 
-And wait for an invitation, if you can attend to it, you will get laid in Porto!
+> And wait for an invitation, if you can attend to it, you will get laid in Porto!
 
-Are there any limitations in get laid in Porto!
+##Are there any limitations in get laid in Porto!
 
 A few:
 
@@ -72,9 +71,6 @@ A few:
 * Like blue;
 
 * You can't be the one that I'm married to;
-
-
-
 
 
 ```
