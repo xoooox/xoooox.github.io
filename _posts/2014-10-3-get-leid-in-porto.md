@@ -58,7 +58,7 @@ Are there any limitations in get laid in Porto!
 
 A few:
 
-*Be a woman;
+* Be a woman;
 
 Lived at least three decades!
 
