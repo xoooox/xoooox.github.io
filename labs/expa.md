@@ -3,7 +3,6 @@ layout: post
 title: expa
 published: true
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
-slug: modeling-far-bit-longer
 ---
 <!--2014-10-3-get-leid-in-porto.md-->
 <hr>
