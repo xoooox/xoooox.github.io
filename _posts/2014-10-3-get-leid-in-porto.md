@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: postt
 title: Get lei'd in Porto
-published: FALSE
+published: true
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes! O sexo"
 ---
 <!--2014-10-3-get-leid-in-porto.md-->
