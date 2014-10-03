@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: expa
 published: TRUE
 description: "Uma experiência, surreal, sobre a maioria das nossas mentes. O sexo"
