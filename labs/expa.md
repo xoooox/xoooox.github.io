@@ -74,11 +74,11 @@ A few:
 
 ##I'm not in Porto, but in a near future, I plan to be! Can I schedule an intention for a laid?
 
->No!
+> No!
 
->Get laid in Porto is life, you can't plan it.
+> Get laid in Porto is life, you can't plan it.
 
->You can try! But I can't assure that you will get laid in Porto! You can schedule with me a dinner, a cinema, theatre, conference, walk, a site seeing, etc. But this dosen't asure that you will get laid in Porto.
+> You can try! But I can't assure that you will get laid in Porto! You can schedule with me a dinner, a cinema, theatre, conference, walk, a site seeing, etc. But this dosen't asure that you will get laid in Porto.
 
 
 ```
