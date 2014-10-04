@@ -3,7 +3,7 @@ layout: page
 title: Fotografia
 published: true
 ---
-
+<hr>
 {% assign pages_list = site.vida %}
 {% for node in pages_list %}
 {% if node.title != null %}
@@ -11,10 +11,11 @@ published: true
 <li class="nav-item">
 <a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
 </li>
-<p>llll</p>
+
 
 {% endif %}
 {% endfor %}
+<hr>
 
 O que é que vais ver se manifestares o pedido para ver as imagens?
 
