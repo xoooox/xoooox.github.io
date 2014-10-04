@@ -19,7 +19,7 @@ url:              http://github.oocn.eu
 collections:
  vida:
   output: true
-
+  permalink: /awesome/:path/
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
