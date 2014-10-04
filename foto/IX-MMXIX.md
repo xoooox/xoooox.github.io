@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Setembro de 2014
 published: TRUE
 description: "Fotagrafias por setembro de 2014"
