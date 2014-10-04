@@ -223,7 +223,7 @@ h1, h2, h3 {
 
 @media (min-width: 1170px) {
   .listing {
-    width: 70%;
+    width: 50%;
     margin-left: 27.5%;
     margin-right: 2.5%;
   }
