@@ -16,6 +16,8 @@ future:           false
 name:             OOCN
 url:              http://github.oocn.eu
 
+collections:
+ - vida
 
 # Links
 expo_repo:        https://github.oocn.eu
