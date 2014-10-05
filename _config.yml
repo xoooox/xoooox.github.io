@@ -23,7 +23,9 @@ collections:
  vida:
   output: true
   permalink: /vidas/:path/
-
+ artigos:
+  output: true
+  permalink: /artigos/:path/
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
