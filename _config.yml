@@ -19,7 +19,7 @@ url:              http://github.oocn.eu
 collections:
  video:
   output: true
-  permalink: /curts/:path/ 
+  permalink: /curtas/:path/ 
  vida:
   output: true
   permalink: /fotografias/:path/
