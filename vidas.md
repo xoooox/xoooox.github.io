@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vidas
-published: true
+published: False
 ---
 <hr>
 {% assign pages_list = site.vida %}
