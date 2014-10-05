@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fotografia
+title: Vidas
 published: true
 ---
 <hr>
