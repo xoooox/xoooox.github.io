@@ -20,6 +20,7 @@ collections:
  vida:
   output: true
   permalink: /fotografias/:path/
+collections:  
  video:
  output: true
  permalink: /videos/:path/ 
