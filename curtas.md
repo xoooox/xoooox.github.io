@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Videos
+title: Curtas
 published: true
 ---
 <hr>
