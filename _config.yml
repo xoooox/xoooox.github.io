@@ -20,6 +20,9 @@ collections:
  vida:
   output: true
   permalink: /fotografia/:path/
+ videos:
+ output: true
+ permalink: /videos/:path/ 
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
