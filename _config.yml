@@ -23,7 +23,7 @@ collections:
 collections:  
  video:
  output: true
- permalink: /videos/:path/ 
+ permalink: /curts/:path/ 
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
