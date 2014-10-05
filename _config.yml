@@ -19,8 +19,8 @@ url:              http://github.oocn.eu
 collections:
  vida:
   output: true
-  permalink: /fotografia/:path/
- videos:
+  permalink: /fotografias/:path/
+ video:
  output: true
  permalink: /videos/:path/ 
 # Links
