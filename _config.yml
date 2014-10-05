@@ -22,7 +22,7 @@ collections:
   permalink: /curtas/:path/ 
  vida:
   output: true
-  permalink: /fotografias/:path/
+  permalink: /vidas/:path/
 
 # Links
 expo_repo:        https://github.oocn.eu
