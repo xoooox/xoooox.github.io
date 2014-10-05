@@ -17,12 +17,13 @@ name:             OOCN
 url:              http://github.oocn.eu
 
 collections:
+ video:
+  output: true
+  permalink: /curts/:path/ 
  vida:
   output: true
   permalink: /fotografias/:path/
- video:
- output: true
- permalink: /curts/:path/ 
+
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
