@@ -4,7 +4,7 @@ title: Videos
 published: true
 ---
 <hr>
-{% assign pages_list = site.videos %}
+{% assign pages_list = site.video %}
 {% for node in pages_list %}
 {% if node.title != null %}
 
