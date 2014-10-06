@@ -31,7 +31,7 @@ published: True
 <!--<h2 class="entry-title">
 <a href="{{ post.url }}">{{ post.title }}</a>
 </h2>-->
-<p class="entry-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+<p class="entry-date">{{ node.date | date: "%B %-d, %Y" }}</p>
 </div>
 </div>
 <hr>
