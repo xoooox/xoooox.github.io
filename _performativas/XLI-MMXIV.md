@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: XLI-MMXIV
 published: TRUE
 description: "Artes performativas no Porto Semana XLI MMXIV "
