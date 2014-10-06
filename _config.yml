@@ -10,8 +10,7 @@ permalink:        pretty
 destination:      ./
 exclude:          ["README.md"]
 paginate_path:    "/opinar/page:num"
-paginate_path:    "/opinarxl/page:num"
-paginate:         3
+paginate:         4
 encoding:         UTF-8
 future:           false
 name:             OOCN
