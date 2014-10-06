@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Performativas
+title: XLI-MMXIV
 published: TRUE
-description: "Artes performativas no Porto"
+description: "Artes performativas no Porto Semana XLI MMXIV "
 ---
 <!--2014-10-6-performativas.md-->
 <hr>
