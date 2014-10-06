@@ -23,6 +23,7 @@ published: True
 
 {% for post in paginator.performativas %}
 
+
 {{ post.title }}
 
 
@@ -31,4 +32,5 @@ published: True
 
 <hr>
 {% endfor %}
+
 {% include pagination.html %}
