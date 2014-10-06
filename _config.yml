@@ -26,6 +26,9 @@ collections:
  artigos:
   output: true
   permalink: /artigos/:path/
+ performativas:
+  output: true
+  permalink: /performativas/:path/  
 # Links
 expo_repo:        https://github.oocn.eu
 expo_new_issue:   https://github.oocn.eu
