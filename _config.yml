@@ -9,7 +9,7 @@ permalink:        pretty
 # Settings
 destination:      ./
 exclude:          ["README.md"]
-paginate_path:    "/opinar/page:num"
+paginate_path:    "/opinar/page:num"; "/opinarxl/page:num"
 paginate:         3
 encoding:         UTF-8
 future:           false
