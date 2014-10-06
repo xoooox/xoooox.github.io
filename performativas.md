@@ -13,7 +13,6 @@ published: True
 <a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
 </li>
 
-{{ node.content }}
 
 {% endif %}
 {% endfor %}
