@@ -20,4 +20,15 @@ published: True
 </ul>
 <hr>
 
+
+{% for post in paginator.performativas %}
+
+{{ post.title }}
+
+
+{{ post.excerpt }}
+
+
+<hr>
+{% endfor %}
 {% include pagination.html %}
