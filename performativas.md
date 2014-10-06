@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Performativas
-published: False
+published: True
 ---
 <hr>
 {% assign pages_list = site.performativas %}
