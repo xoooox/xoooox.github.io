@@ -1,6 +1,6 @@
 ---
 layout: post
-title: model
+title: Breviário Gota D'agua
 published: TRUE
 description: "Teatro de grande qualidade"
 ---
